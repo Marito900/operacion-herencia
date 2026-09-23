@@ -14,4 +14,6 @@ public class Dispositivo {
     public void ejecutarDiagnostico() {
         System.out.println("Ejecutando diagnóstico general...");
     }
+
+
 }
