@@ -13,5 +13,8 @@ public class Main {
         impresora.mostrarEstado();
 
 
+        proyector.ejecutarDiagnostico();
+        computador.ejecutarDiagnostico();
+        impresora.ejecutarDiagnostico();
     }
 }
