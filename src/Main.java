@@ -25,6 +25,6 @@ public class Main {
         dispositivo2.ejecutarDiagnostico();
         dispositivo3.ejecutarDiagnostico();
 
-        dispositivo.mostrarEstado();
+        dispositivo1.mostrarEstado();
     }
 }
